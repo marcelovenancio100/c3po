@@ -1,1 +1,1 @@
-# Simple Spring Boot Project with RabbitMQ 
+# Simple Spring Boot Project with RabbitMQ
